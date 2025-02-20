@@ -21,7 +21,7 @@ f = 2 Hz → Tín hiệu này có tần số 2 Hz (tức là 2 chu kỳ mỗi gi
 φ = 0 → Không có pha ban đầu, sóng bắt đầu từ 0.
 t: Mảng thời gian từ 0 đến 1 giây.
 '''
-signal1 = np.sin(2*np.pi * 2*t) 
+signal1 = np.sin(2*np.pi * 5*t) 
 
 '''
 Tín hiệu cos tổng quát được viết dưới dạng:
